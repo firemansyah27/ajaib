@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ajaib/static/css/main.073c9b0a.css",
+    "main.js": "/ajaib/static/js/main.28257222.js",
+    "static/js/787.08b981e1.chunk.js": "/ajaib/static/js/787.08b981e1.chunk.js",
+    "static/media/logo.svg": "/ajaib/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ajaib/index.html",
+    "main.073c9b0a.css.map": "/ajaib/static/css/main.073c9b0a.css.map",
+    "main.28257222.js.map": "/ajaib/static/js/main.28257222.js.map",
+    "787.08b981e1.chunk.js.map": "/ajaib/static/js/787.08b981e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.28257222.js"
+  ]
+}
